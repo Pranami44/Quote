@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Quote</string>
+    <string name="quote1">The way to get started is to quit talking and begin doing</string>
+    <string name="quote2">Don\'t let yesterday take up too much of today</string>
+    <string name="quote3">The two most important days in ou life are the day you are born and the da you find out why</string>
+    <string name="quote4">Everyday is a chance to be better</string>
+    <string name="quote5">The best view comes after the hardest climb</string>
+    <string name="quote6">Failure is not the opposite of success. It is part of success</string>
+    <string name="quote7">What\'s meant to be will always find its way</string>
+    <string name="quote8">Life tip, stop expecting</string>
+
+</resources>
